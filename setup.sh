@@ -24,7 +24,9 @@ tlmgr install \
   biber \
   biblatex \
   latexmk \
-  texliveonfly
+  texliveonfly \
+  ccicons \
+  minted fvextra xstring framed
 
 echo "==> Clean up"
 rm -rf \
