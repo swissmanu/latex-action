@@ -26,7 +26,8 @@ tlmgr install \
   latexmk \
   texliveonfly \
   ccicons \
-  minted fvextra xstring framed
+  minted fvextra xstring framed \
+  fira beamertheme-focus
 
 echo "==> Clean up"
 rm -rf \
